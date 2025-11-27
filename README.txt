@@ -1,6 +1,6 @@
 
 Assignment: eRetail Sales Data Cleaning & Exploratory Analysis
-Submitted by: <Your Name>
+Submitted by: Utkarsh Mathur
 
 Files included:
 1) cleaned_amazon_sales.csv         - cleaned dataset used for analysis
