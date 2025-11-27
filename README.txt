@@ -8,8 +8,9 @@ Files included:
 3) monthly_revenue.png              - plot of monthly revenue
 4) region_revenue.png               - top regions by revenue
 5) sales_scatter.png                - sales over time scatter plot
-6) Amazon_Sales_EDA.ipynb           - original Jupyter notebook (include when submitting)
-7) README.txt                       - this file
+6) assignment_submission.zip        - zip with all above files
+7) Amazon_Sales_EDA.ipynb           - original Jupyter notebook (include when submitting)
+8) README.txt                       - this file
 
 How to run (locally):
 - Open the notebook and run all cells, OR:
